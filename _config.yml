@@ -30,3 +30,5 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+
+theme: jekyll-theme-cayman
